@@ -1,1 +1,2 @@
 big_file.dat filter=lfs diff=lfs merge=lfs -text
+big_file2.dat filter=lfs diff=lfs merge=lfs -text
